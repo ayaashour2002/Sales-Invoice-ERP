@@ -6,7 +6,7 @@ A Windows Forms desktop ERP application for managing sales invoices, built with 
 
 ## 🛠️ Tech Stack
 
-- **Language:** C# (.NET Framework 4.7.2)
+- **Language:** C# (.NET Framework 8.0)
 - **UI Framework:** Windows Forms
 - **Database:** Microsoft SQL Server
 
