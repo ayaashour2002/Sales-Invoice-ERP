@@ -71,6 +71,8 @@ A Windows Forms desktop ERP application for managing sales invoices, built with 
 - Customer selection is required
 - Invoice numbers are generated automatically and cannot be edited
 - Tax rate is set to 14% (VAT) — can be changed in `InvoiceForm.cs` via `_taxRate` field
+👤 Author
+Built as part of technical task.
 
 ---
 ## 📸 Screenshots
